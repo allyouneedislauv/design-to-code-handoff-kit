@@ -31,6 +31,6 @@ The files are maintained manually to match the Figma Variables. There is no auto
 ## Links
 
 - Case study: https://www.allyouneedislauv.com/
-- Figma file: _add link once published_
+- Figma file: https://www.figma.com/community/file/1707269625597569094
 
 Built by Laura Hundzinski da Rocha (Lau), Product Designer.
